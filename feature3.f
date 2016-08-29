@@ -1,4 +1,4 @@
 function f(a, b)
     puts 'hello from the other side'
 
-f(1, 2)
+f(1, 2,3,4)
